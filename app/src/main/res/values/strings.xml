@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pokémon GO</string>
+    <string name="nome">Nome:</string>
+    <string name="user">Usuário:</string>
+    <string name="senha">Senha:</string>
+    <string name="confirmacao_de_senha">"Confirmação de Senha: "</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Feminino</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login">Login</string>
+    <string name="inicio">Início da Aventura:</string>
+    <string name="numero">Número de capturas:</string>
+    <string name="perfil">Perfil do Usuário</string>
+    <string name="logout">Logout</string>
+    <string name="pokedex">Pokedex</string>
+    <string name="capturados">Capturados: </string>
+    <string name="tipo">Tipo:</string>
+    <string name="locais">LOCAIS DAS CAPTURAS</string>
+    <string name="capturas">Mapa das Capturas</string>
+</resources>
