@@ -1,6 +1,5 @@
 # pokemongo
 Final project from INF311 - Development for Mobile Devices
-Project specification at the Docs folder.
 
 ## RECURSOS APLICADOS NO DESENVOLVIMENTO DO APLICATIVO:
 - Conceitos básicos do Android
